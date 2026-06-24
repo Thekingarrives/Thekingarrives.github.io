@@ -1,0 +1,179 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ai时代 一些感想  2026年5月 | AuraGrove</title>
+<link rel="shortcut icon" href="https://Thekingarrives.github.io/favicon.ico?v=1782291701309">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://Thekingarrives.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Ai时代 一些感想  2026年5月 | AuraGrove - Atom Feed" href="https://Thekingarrives.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="设计和制作app变得更容易了
+问答 寻找答案也变得容易了
+问什么问题就变得很关键
+好问题  好答案
+重复盲目追风 被动就变得一无是处
+寻找人性的利益冲突  需求  品味 感受  变得更重要
+第一时间知道最新的第一手的资料也很重要
+无论是出于..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://Thekingarrives.github.io">
+  <img class="avatar" src="https://Thekingarrives.github.io/images/logo.jpg?v=1782291701309" alt="">
+  </a>
+  <h1 class="site-title">
+    AuraGrove
+  </h1>
+  <p class="site-description">
+    朝花夕拾
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Ai时代 一些感想  2026年5月
+            </h2>
+            <div class="post-info">
+              <span>
+                2026-06-24
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <p>设计和制作app变得更容易了</p>
+<p>问答 寻找答案也变得容易了</p>
+<p>问什么问题就变得很关键</p>
+<p>好问题  好答案</p>
+<p>重复盲目追风 被动就变得一无是处</p>
+<p>寻找人性的利益冲突  需求  品味 感受  变得更重要</p>
+<p>第一时间知道最新的第一手的资料也很重要</p>
+<p>无论是出于薅羊毛还是为了马上跟上第一批赚钱的人</p>
+<p>在生活上  一个可以管理自己思考 管理自己文档的智能体 也是能事半功倍的的</p>
+<p>关键要稳定的使用  不要经常更换</p>
+<p>同时要有md格式的基本管理纲领</p>
+<p>每个长期做的事情 都需要这么一个内容不断优化的管理纲领</p>
+<p>信息加密 也很重要  Ai可以轻易的搜索你的资料  并且进行加工</p>
+<p>该离线的就好好离线 不然就没有私密性可言</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://Thekingarrives.github.io/post/duo-nian-qian-ting-xi-huan-she-ying/">
+              <h3 class="post-title">
+                多年前挺喜欢摄影
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  ©2026 我的私人随笔
+  <a class="rss" href="https://Thekingarrives.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

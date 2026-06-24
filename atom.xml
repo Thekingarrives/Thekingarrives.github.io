@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Thekingarrives.github.io</id>
+    <title>AuraGrove</title>
+    <updated>2026-06-24T09:02:12.958Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Thekingarrives.github.io"/>
+    <link rel="self" href="https://Thekingarrives.github.io/atom.xml"/>
+    <subtitle>朝花夕拾</subtitle>
+    <logo>https://Thekingarrives.github.io/images/avatar.png</logo>
+    <icon>https://Thekingarrives.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, AuraGrove</rights>
+    <entry>
+        <title type="html"><![CDATA[Ai时代 一些感想  2026年5月]]></title>
+        <id>https://Thekingarrives.github.io/post/ai-shi-dai-yi-xie-gan-xiang-2026-nian-5-yue/</id>
+        <link href="https://Thekingarrives.github.io/post/ai-shi-dai-yi-xie-gan-xiang-2026-nian-5-yue/">
+        </link>
+        <updated>2026-06-24T08:48:15.000Z</updated>
+        <content type="html"><![CDATA[<p>设计和制作app变得更容易了</p>
+<p>问答 寻找答案也变得容易了</p>
+<p>问什么问题就变得很关键</p>
+<p>好问题  好答案</p>
+<p>重复盲目追风 被动就变得一无是处</p>
+<p>寻找人性的利益冲突  需求  品味 感受  变得更重要</p>
+<p>第一时间知道最新的第一手的资料也很重要</p>
+<p>无论是出于薅羊毛还是为了马上跟上第一批赚钱的人</p>
+<p>在生活上  一个可以管理自己思考 管理自己文档的智能体 也是能事半功倍的的</p>
+<p>关键要稳定的使用  不要经常更换</p>
+<p>同时要有md格式的基本管理纲领</p>
+<p>每个长期做的事情 都需要这么一个内容不断优化的管理纲领</p>
+<p>信息加密 也很重要  Ai可以轻易的搜索你的资料  并且进行加工</p>
+<p>该离线的就好好离线 不然就没有私密性可言</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多年前挺喜欢摄影]]></title>
+        <id>https://Thekingarrives.github.io/post/duo-nian-qian-ting-xi-huan-she-ying/</id>
+        <link href="https://Thekingarrives.github.io/post/duo-nian-qian-ting-xi-huan-she-ying/">
+        </link>
+        <updated>2026-06-20T11:45:50.000Z</updated>
+        <content type="html"><![CDATA[<p>还比较关注镜头</p>
+<p>还有构图啥的</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我的2026]]></title>
+        <id>https://Thekingarrives.github.io/post/guan-yu-wo-de-2026/</id>
+        <link href="https://Thekingarrives.github.io/post/guan-yu-wo-de-2026/">
+        </link>
+        <updated>2026-06-20T10:51:42.000Z</updated>
+        <content type="html"><![CDATA[<p>准备写点日常生活的记录</p>
+<p>和一些学到的东西</p>
+<p>还有偶尔放一些图片</p>
+<figure data-type="image" tabindex="1"><img src="https://Thekingarrives.github.io/post-images/1781955473497.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
